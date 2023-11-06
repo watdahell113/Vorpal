@@ -1,6 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Courier%20New:wght@400;600;800&display=swap");
 
 body {
+		 background-image: url("https://c4.wallpaperflare.com/wallpaper/6/195/720/anime-boat-moonlight-night-wallpaper-preview.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 	font-family: "Courier New", sans-serif;
 	text-decoration: none;
 	background-color: #1e1e1e;
