@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>Interstellar V5</h1>
-    <h3>Interstellar is one of the most modern and popular unblocking sites.</h3>
+    <h1>Vorpal</h1>
+    <h3>Built off of Interstellar.</h3>
     
 ### [Join our Discord!](https://discord.gg/interstellar)
 </div>
