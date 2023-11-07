@@ -59,7 +59,7 @@ body {
     font-size: 24px;
     border: none;
     outline: none;
-    color: white;
+    color: black;
 	transition: 0.2s;
 }
 @media (orientation: portrait) {
@@ -74,7 +74,7 @@ body {
 		font-size: 24px;
 		border: none;
 		outline: none;
-		color: white;
+		color: black;
 		transition: 0.2s;
 	}
   }
