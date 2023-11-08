@@ -1,7 +1,9 @@
 .animate-charcter
 {
    text-transform: uppercase;
-  background-image: linear-gradient(
+  background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+            linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+            linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);  
     -225deg,
     #231557 0%,
     #44107a 29%,
@@ -17,8 +19,9 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   animation: textclip 2s linear infinite;
-  display: inline-block;
+  display: flex;
       font-size: 190px;
+   text-align: center;
 }
 
 @keyframes textclip {
