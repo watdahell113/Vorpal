@@ -1,4 +1,7 @@
 body {
+	<style>
+	min-resolution: 450dpi
+	</style>
 	 background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSScB88XjnD4_6695yXzB-GsZ_sC0Z22fNlYg&usqp=CAU");
     display: flex;
     justify-content: center;
