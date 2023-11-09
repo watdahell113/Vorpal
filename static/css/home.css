@@ -1,8 +1,6 @@
 body {
-	<style>
-	min-resolution: 450dpi
-	</style>
-	 background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSScB88XjnD4_6695yXzB-GsZ_sC0Z22fNlYg&usqp=CAU");
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSScB88XjnD4_6695yXzB-GsZ_sC0Z22fNlYg&usqp=CAU") and (min-resolution: 450dpi)
+;
     display: flex;
     justify-content: center;
     align-items: center;
