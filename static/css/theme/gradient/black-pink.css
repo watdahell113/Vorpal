@@ -1,0 +1,16 @@
+body {
+    background-image: url("https://st3.depositphotos.com/1007879/15063/i/450/depositphotos_150636798-stock-photo-space-background-with-stars-space.jpg");
+    color: white;
+}
+
+.fixed-nav-bar-right .navbar-link {
+    color: white;
+}
+
+#INImg {
+    content: url("/main.png");
+}
+
+input:checked + .slider-round {
+    background-color: #000;
+}
