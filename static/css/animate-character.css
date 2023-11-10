@@ -6,12 +6,3 @@
   text-transform: lowercase;
   animation: textclip 5s linear infinite;
 }
- 
-@keyframes stream {
-  0% {
-    transform: translateX(0%);
-  }
-  100% {
-    transform: translateX(-100%);
-  }
-}
