@@ -53,13 +53,14 @@ body {
     top:-15vh;
     padding: 1vw;
     width: 45vh;
+	position: relative;
     border-radius: 5px;
-    background: #799cb9;
+    background: #0095ff;
+    text-align: center;
     font-size: 24px;
     border: none;
-  transform: translate(-50%, -50%);
     outline: none;
-    color: black;
+    color: white;
 	transition: 0.2s;
 }
 @media (orientation: portrait) {
