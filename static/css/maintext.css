@@ -23,6 +23,6 @@
 
 @keyframes textclip {
   to {
-    background-position: center;
+    background-position: 200% right;
   }
 }
