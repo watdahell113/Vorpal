@@ -1,8 +1,7 @@
-.animate-character
+.text
 {
    text-transform: lowercase;
   background: linear-gradient(#00fff7, #0073ff, #0008ff, #7350d4, #501199);
-  );
   background-size: auto auto;
   background-clip: border-box;
   background-size: 200% auto;
