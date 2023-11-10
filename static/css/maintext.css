@@ -12,8 +12,8 @@
   background-clip: border-box;
   background-size: 200% auto;
   position: absolute;
-  top: 12%;
-  left: 50%;
+  top: 35%;
+  width: 100%;
   transform: translate(-50%, -50%);
   color: #fff;
   background-clip: text;
