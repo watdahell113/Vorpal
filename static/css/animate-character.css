@@ -4,7 +4,7 @@
   white-space: nowrap;
   font-size: 120px;
   text-transform: lowercase;
-  animation: stream 5s linear infinite;
+  animation: textclip 5s linear infinite;
 }
  
 @keyframes stream {
