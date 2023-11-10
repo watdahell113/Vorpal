@@ -11,7 +11,10 @@
   background-size: auto auto;
   background-clip: border-box;
   background-size: 200% auto;
+   position: absolute;
   color: #fff;
+   top:50%;
+   width:100%
   background-clip: text;
   text-fill-color: transparent;
   -webkit-background-clip: text;
