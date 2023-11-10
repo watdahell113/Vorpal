@@ -1,1 +1,17 @@
-https://static.vecteezy.com/system/resources/previews/025/414/748/non_2x/abstract-blue-sky-concept-blurred-brilliant-azure-fluorescent-blue-gradient-soft-abstract-light-blue-gradient-blurry-blue-waves-background-template-illustration-eps-10-free-vector.jpg
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/025/414/748/non_2x/abstract-blue-sky-concept-blurred-brilliant-azure-fluorescent-blue-gradient-soft-abstract-light-blue-gradient-blurry-blue-waves-background-template-illustration-eps-10-free-vector.jpg);
+;
+    color: white;
+}
+
+.fixed-nav-bar-right .navbar-link {
+    color: white;
+}
+
+#INImg {
+    content: url("/main.png");
+}
+
+input:checked + .slider-round {
+    background-color: #000;
+}
