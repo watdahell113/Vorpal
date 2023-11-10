@@ -1,5 +1,7 @@
 body {
-    background-image: url("https://wallpapers.com/images/hd/purple-night-city-tokyo-anime-eb2x4kr38r1evldl.jpg");
+    background-image: url("https://static.vecteezy.com/system/resources/previews/023/407/403/non_2x/snowfall-background-white-background-with-snowflakes-in-the-style-of-light-purple-and-sky-blue-light-beige-and-white-soft-romantic-landscapes-generat-ai-free-photo.jpg");
+    -webkit-transform: scale(0.999);
+  transform: scale(0.999);
     color: white;
 }
 
