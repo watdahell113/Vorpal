@@ -1,0 +1,16 @@
+body {
+    background-image: url("https://img.freepik.com/premium-photo/green-fire-background-with-green-flame_895799-6647.jpg");
+    color: white;
+}
+
+.fixed-nav-bar-right .navbar-link {
+    color: white;
+}
+
+#INImg {
+    content: url("/main.png");
+}
+
+input:checked + .slider-round {
+    background-color: #000;
+}
