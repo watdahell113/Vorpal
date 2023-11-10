@@ -9,10 +9,5 @@
     #fff800 100%
   );
   animation: textclip 5s linear infinite;
-}
-
-@keyframes textclip {
-  to {
-    background-position: center;
   }
 }
