@@ -1,8 +1,0 @@
-.title {
-  position: absolute;
-  padding-bottom: 40%;
-  white-space: nowrap;
-  font-size: 120px;
-  text-transform: lowercase;
-  animation: textclip 5s linear infinite;
-}
