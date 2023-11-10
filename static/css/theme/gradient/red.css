@@ -1,1 +1,16 @@
+body {
+    background-image: url("https://media.istockphoto.com/id/1063685972/photo/gradient-with-alabama-crimson-red-sunset-geraldine-color-modern-texture-background-degrading.jpg?s=170667a&w=0&k=20&c=X05U51-KyosLPe-zEWvVdK8KMIv3GkZHoTU4zCVTpYo=");
+    color: white;
+}
 
+.fixed-nav-bar-right .navbar-link {
+    color: white;
+}
+
+#INImg {
+    content: url("/main.png");
+}
+
+input:checked + .slider-round {
+    background-color: #000;
+}
